@@ -1,4 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=56e0506e_002D53ae_002D4839_002D8ed6_002Dd521a2f6b0ec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetConfig_WhenFileDoesntExist_ShouldException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\Users\danim\RiderProjects\RoadStatus\RoadStatus.Tests" Presentation="&amp;lt;RoadStatus.Tests&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
